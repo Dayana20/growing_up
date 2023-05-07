@@ -36,3 +36,25 @@
     transform: rotate(360deg);
   }
 }
+
+#home_title{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  /* justify-content: center; */
+  background-color: rgb(43, 87, 81);
+  height: 100vh;
+}
+
+#title{
+  margin-top: 20vh;
+}
+
+#home_button{
+  text-decoration: none;
+  color: black;
+}
+
+#home_button:hover{
+  font-size: large;
+}
