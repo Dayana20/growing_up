@@ -6,7 +6,7 @@ function DisplayP4(){
         <>
         <div id="p4">
             POEM 4: decolonizing science
-            <a href="/">CLICK ME!</a>
+            <a href="/growing_up/">CLICK ME!</a>
         </div>
         
 
