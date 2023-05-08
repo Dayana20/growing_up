@@ -11,13 +11,13 @@ import DisplayP4 from './p4';
 
 
 ReactDOM.render(
-  <BrowserRouter>
+  <BrowserRouter basename="growing_up">
   <Routes>
-    <Route path="/growing_up" element={<App/>}/>
-    <Route path="/growing_up/p1" element={<DisplayP1/>}/>
-    <Route path="/growing_up/p2" element={<DisplayP2/>}/>
-    <Route path="/growing_up/p3" element={<DisplayP3/>}/>
-    <Route path="/growing_up/p4" element={<DisplayP4/>}/>
+    <Route path="/" element={<App/>}/>
+    <Route path="/p1" element={<DisplayP1/>}/>
+    <Route path="/p2" element={<DisplayP2/>}/>
+    <Route path="/p3" element={<DisplayP3/>}/>
+    <Route path="/p4" element={<DisplayP4/>}/>
   </Routes>
   </BrowserRouter>,
   document.getElementById("root")
