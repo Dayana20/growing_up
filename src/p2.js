@@ -6,7 +6,7 @@ function DisplayP2(){
         <>
         <div id="p2">
             POEM 2: fitting in and perfection
-            <a href="/growing_up/p3">CLICK ME!</a>
+            <a href="/growing_up/#/p3">CLICK ME!</a>
         </div>
         
         </>

@@ -9,7 +9,7 @@ function DisplayP1(){
         <>
         <div id="p1">
             POEM 1: in defense of intersectionality
-            <a href="/growing_up/p2">CLICK ME!</a>
+            <a href="/growing_up/#/p2">CLICK ME!</a>
             {/* <img src={img1}/>
             <img src={img2}/> */}
 

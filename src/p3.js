@@ -6,7 +6,7 @@ function DisplayP3(){
         <>
         <div id="p3">
             POEM 3: community and belonging
-            <a href="/growing_up/p4">CLICK ME!</a>
+            <a href="/growing_up/#/p4">CLICK ME!</a>
         </div>
         
         </>
