@@ -44,6 +44,10 @@
   /* justify-content: center; */
   background-color: rgb(43, 87, 81);
   height: 100vh;
+  background-image: url("./images/IMG_2234.jpg");
+  background-repeat: no-repeat;
+  background-position-x: center;
+  background-size: cover;
 }
 
 #title{
@@ -57,4 +61,60 @@
 
 #home_button:hover{
   font-size: large;
+}
+
+.poem_layout{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: rgb(43, 87, 81);
+  height: 100vh;
+}
+
+#p1{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  /* justify-content: center; */
+  height: 100vh;
+  background-image: url("./images/IMG_0908.jpg");
+  /* background-repeat: no-repeat; */
+  background-position-y: center;
+  /* background-position: center; */
+  background-size: cover;
+
+}
+
+#p2{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  /* justify-content: center; */
+  height: 100vh;
+  background-image: url("./images/IMG_9983.jpg");
+  background-repeat: no-repeat;
+  background-position-x: center;
+  background-size: cover;
+}
+
+#p3{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100vh;
+  background-image: url("./images/IMG_9077.jpg");
+  background-position-x: center;
+  background-size:contain;
+}
+
+#p4{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  /* justify-content: center; */
+  height: 100vh;
+  background-image: url("./images/IMG_5631.jpg");
+  background-position-x: center;
+  background-size:contain;
 }

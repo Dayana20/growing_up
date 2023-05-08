@@ -1,12 +1,18 @@
-import logo from './logo.svg';
 import './App.css';
+import Typist from 'react-typist';
 
 function App() {
   return (
     <div>
       <div id="home_title">
-        <h1 id="title">To a Better Future</h1>
-        <a id="home_button" href=""> Click Me!</a>
+        <a id="home_button" href="/p1">
+          <h1 id="title">
+            <Typist avgTypingDelay={100}> 
+              To a Better Future...
+            </Typist>
+          </h1>
+          </a>
+          
       </div>
     </div>
   );
