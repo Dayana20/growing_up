@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/growing_up/static/css/main.727ca87c.css",
-    "main.js": "/growing_up/static/js/main.b21ce77e.js",
+    "main.css": "/growing_up/static/css/main.fb116fe7.css",
+    "main.js": "/growing_up/static/js/main.d9f1fc91.js",
     "static/js/787.3b82e3df.chunk.js": "/growing_up/static/js/787.3b82e3df.chunk.js",
     "static/media/ocean_waves.wav": "/growing_up/static/media/ocean_waves.ba15cad9f082e8428bcc.wav",
     "static/media/IMG_5631.jpg": "/growing_up/static/media/IMG_5631.7c06be6df4881075d955.jpg",
@@ -9,13 +9,25 @@
     "static/media/IMG_9983.jpg": "/growing_up/static/media/IMG_9983.67658eda7f34d788b621.jpg",
     "static/media/IMG_9077.jpg": "/growing_up/static/media/IMG_9077.330efff8ceec7cb93730.jpg",
     "static/media/IMG_0908.jpg": "/growing_up/static/media/IMG_0908.4454335c8eb4af5c5f4b.jpg",
+    "static/media/IMG_1691.jpg": "/growing_up/static/media/IMG_1691.9023e156e24585b726b3.jpg",
+    "static/media/f990ff52.jpeg": "/growing_up/static/media/f990ff52.b797f03d854cc0a6b9ac.jpeg",
+    "static/media/IMG_1835.jpg": "/growing_up/static/media/IMG_1835.5a23abe2af84f3845756.jpg",
+    "static/media/IMG_8829.jpg": "/growing_up/static/media/IMG_8829.197b0d66c9a99cf351b1.jpg",
+    "static/media/IMG_6680.jpeg": "/growing_up/static/media/IMG_6680.06f059f8cd21ab3d8bbc.jpeg",
+    "static/media/IMG_6702.jpeg": "/growing_up/static/media/IMG_6702.d77b02725ef6973bed6c.jpeg",
+    "static/media/IMG_2442.JPG": "/growing_up/static/media/IMG_2442.0aa1b3e63a9512b464c5.JPG",
+    "static/media/IMG_5945.JPG": "/growing_up/static/media/IMG_5945.94d2f21326ddc8654813.JPG",
+    "static/media/IMG_6695.JPG": "/growing_up/static/media/IMG_6695.125950ce104c76271503.JPG",
+    "static/media/IMG_6697.JPG": "/growing_up/static/media/IMG_6697.d8cb28fca34345153104.JPG",
+    "static/media/IMG_6700.JPG": "/growing_up/static/media/IMG_6700.018e2e8b299c64ba290c.JPG",
+    "static/media/IMG_6699.JPG": "/growing_up/static/media/IMG_6699.6e176bb07f450635b8ca.JPG",
     "index.html": "/growing_up/index.html",
-    "main.727ca87c.css.map": "/growing_up/static/css/main.727ca87c.css.map",
-    "main.b21ce77e.js.map": "/growing_up/static/js/main.b21ce77e.js.map",
+    "main.fb116fe7.css.map": "/growing_up/static/css/main.fb116fe7.css.map",
+    "main.d9f1fc91.js.map": "/growing_up/static/js/main.d9f1fc91.js.map",
     "787.3b82e3df.chunk.js.map": "/growing_up/static/js/787.3b82e3df.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.727ca87c.css",
-    "static/js/main.b21ce77e.js"
+    "static/css/main.fb116fe7.css",
+    "static/js/main.d9f1fc91.js"
   ]
 }
