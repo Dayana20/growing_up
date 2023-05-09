@@ -67,15 +67,39 @@
   background-color: whitesmoke;
   height: 100vh;
   display: flex;
-  justify-content: center;
+  flex-direction: column;
+  justify-content: space-between;
   align-items: center;
 }
 
+/* #start_background{
+  background-color: rgb(35, 35, 35);
+  border: 2px solid black;
+  border-radius: 3vh;
+  padding: 20vh;
+} */
+
 #start_button{
-  background-color: whitesmoke;
-  color:rgb(213, 143, 212);;
-  border: none;
+  background-color: rgb(131, 123, 123);
+  color:rgb(213, 143, 212);
   font-size: large;
+}
+
+#start_button:hover{
+  background-color: rgb(93, 168, 218);
+  color:rgb(213, 74, 210);
+}
+
+.imageItems{
+  height: 25vh;
+  width: 25vh;
+}
+
+.imgs_layout{
+  width: 100vw;
+  display: flex;
+  justify-content: space-between;
+  /* background-color: #282c34; */
 }
 
 .poem_layout{
@@ -121,6 +145,8 @@
   background-image: url("./images/IMG_9077.jpg");
   background-position-x: center;
   background-size:contain;
+  background-repeat: no-repeat;
+  background-color: #1a1b1c;
 }
 
 #p4{
