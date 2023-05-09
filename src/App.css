@@ -63,6 +63,21 @@
   font-size: large;
 }
 
+#start_home{
+  background-color: whitesmoke;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#start_button{
+  background-color: whitesmoke;
+  color:rgb(213, 143, 212);;
+  border: none;
+  font-size: large;
+}
+
 .poem_layout{
   display: flex;
   flex-direction: column;
