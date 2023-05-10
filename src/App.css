@@ -65,6 +65,7 @@
 
 #start_home{
   background-color: whitesmoke;
+  background-color: rgb(244, 233, 233);
   height: 100vh;
   display: flex;
   flex-direction: column;
@@ -156,6 +157,6 @@
   /* justify-content: center; */
   height: 100vh;
   background-image: url("./images/IMG_5631.jpg");
-  background-position-x: center;
+  /* background-position-x: center; */
   background-size:contain;
 }

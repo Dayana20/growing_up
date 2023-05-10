@@ -28,7 +28,7 @@ function App() {
   let changestart=()=>{
     setstartStatus(true)
   }
-
+  // could click on images to go to poem
   if (!startStatus){
     return(
       <>
