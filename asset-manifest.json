@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/growing_up/static/css/main.fb116fe7.css",
+    "main.css": "/growing_up/static/css/main.e6c78ac4.css",
     "main.js": "/growing_up/static/js/main.d9f1fc91.js",
     "static/js/787.3b82e3df.chunk.js": "/growing_up/static/js/787.3b82e3df.chunk.js",
     "static/media/ocean_waves.wav": "/growing_up/static/media/ocean_waves.ba15cad9f082e8428bcc.wav",
@@ -22,12 +22,12 @@
     "static/media/IMG_6700.JPG": "/growing_up/static/media/IMG_6700.018e2e8b299c64ba290c.JPG",
     "static/media/IMG_6699.JPG": "/growing_up/static/media/IMG_6699.6e176bb07f450635b8ca.JPG",
     "index.html": "/growing_up/index.html",
-    "main.fb116fe7.css.map": "/growing_up/static/css/main.fb116fe7.css.map",
+    "main.e6c78ac4.css.map": "/growing_up/static/css/main.e6c78ac4.css.map",
     "main.d9f1fc91.js.map": "/growing_up/static/js/main.d9f1fc91.js.map",
     "787.3b82e3df.chunk.js.map": "/growing_up/static/js/787.3b82e3df.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fb116fe7.css",
+    "static/css/main.e6c78ac4.css",
     "static/js/main.d9f1fc91.js"
   ]
 }
