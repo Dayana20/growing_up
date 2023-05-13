@@ -22,7 +22,7 @@ function App() {
   const [startStatus, setstartStatus] = useState(false)
   const audio = new Audio(oceanWaves)
   audio.loop = true
-  audio.volume = 0.3
+  audio.volume = 0.01
   audio.autoplay=true
 
   let changestart=()=>{
@@ -67,18 +67,65 @@ function App() {
     return (
       <div>
         <div id="home_title">
-          <a id="home_button" href="/growing_up/#/p1">
-            <h1 id="title">
-              <Typist avgTypingDelay={180}> 
-                To a Better Future...
-              </Typist>
-            </h1>
-          </a>
-        {/* <button onClick={()=>{
-          audio.pause()
-          audioStatus=false
-        }}>Pause</button> */}
+          <div id="sec1">
+            <div class="part1_p">
+              <a className="p_button" href="/growing_up/#/p1"><span>Mi Madre</span></a>
+              <p><span>
+              Strong.
+              <br/>
+              That’s how I saw her
+              <br/>
+              An unstoppable woman
+              <br/>
+              Brave enough for anything
+              </span></p>
+            </div>
+            <div class="part1_p">
+              <a className="p_button" href="/growing_up/#/p1"><span>Mi Padre</span></a>
+              <p><span>
+              Cheerful.
+              <br/>
+              That’s how I saw him
+              <br/>
+              Optimistic on the worst occasions
+              <br/>
+              Poetic and loving of life
+              </span></p>
+            </div>
+          </div>
+         
+          <p class="part1_p"><span>
+          Nothing ever brought them down
+          <br/>
+          But then I grew up
+          <br/>
+          And I got to see their frown
+          <br/>
+          <br/>
+          <br/>
+          <br/>
+          <br/>
+          <br/>
+          Resilient.
+          <br/>
+          That’s who they are
+          <br/>
+          Finding the courage for our fulfillment
+          <br/>
+          Even when their happiness seems far
+          <br/>
+          <br/>
+          Dayana Alejandro Campoverde
+          </span></p>
+          <div className="home_button">
+            <a className="hb" href="/growing_up/#/p1"><span>
+                <Typist avgTypingDelay={180}> 
+                  To a Better Future...
+                </Typist>
+            </span></a>
+          </div>
         </div>
+
       </div>
     )
   }

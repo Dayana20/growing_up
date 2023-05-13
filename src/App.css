@@ -48,20 +48,40 @@
   background-repeat: no-repeat;
   background-position-x: center;
   background-size: cover;
+  /* justify-content: space-evenly; */
 }
 
-#title{
+.part1_p{
+  color: black;
+  /* font-weight: bolder; */
+  text-align: center;
+  font-size: large;
+  text-shadow: rgb(229, 199, 148) 1px 0 10px;
+}
+
+#sec1{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  width: 100vw;
+  margin-top: 5vh;
+}
+
+.home_button{
+  width: 100vw;
+  display: flex;
+  justify-content: flex-end;
+  color: black;
   margin-top: 20vh;
+  /* font-size: small; */
 }
 
-#home_button{
+.hb{
   text-decoration: none;
   color: black;
+  background-color: white;
 }
 
-#home_button:hover{
-  font-size: large;
-}
 
 #start_home{
   background-color: whitesmoke;
@@ -126,6 +146,21 @@
 
 }
 
+#p1_p{
+  display: flex;
+  flex-direction: row;
+  text-align: center;
+}
+
+
+.p_button{
+  background-color: white;
+  /* text-decoration: none; */
+  color: black;
+  margin-top: 5vh;
+  font-weight: bold;
+}
+
 #p2{
   display: flex;
   flex-direction: column;
@@ -136,7 +171,23 @@
   background-repeat: no-repeat;
   background-position-x: center;
   background-size: cover;
+  text-align: center;
 }
+
+#p2_button{
+  color: black;
+}
+
+p>span{
+  background-color: white;
+  line-height: 1;
+}
+
+a>span{
+  background-color: white;
+  line-height: 2;
+}
+
 
 #p3{
   display: flex;
@@ -148,6 +199,14 @@
   background-size:contain;
   background-repeat: no-repeat;
   background-color: #1a1b1c;
+  text-align: center;
+}
+
+#p3_button{
+  background-color: white;
+  color: black;
+  font-size: large;
+  margin-top: 8vh;
 }
 
 #p4{
@@ -159,4 +218,18 @@
   background-image: url("./images/IMG_5631.jpg");
   /* background-position-x: center; */
   background-size:contain;
+  text-align: center;
+}
+
+#p4_poem{
+  background-color: white;
+  margin-top: 10vh;
+  padding: 1rem;
+}
+
+#p4_button{
+  /* background-color: white; */
+  color: black;
+  font-size: large;
+  margin-top: 8vh;
 }
