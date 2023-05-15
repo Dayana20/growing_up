@@ -115,6 +115,7 @@ function App() {
           Even when their happiness seems far
           <br/>
           <br/>
+          <br/>
           Dayana Alejandro Campoverde
           </span></p>
           <div className="home_button">

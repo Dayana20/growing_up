@@ -52,7 +52,7 @@ function DisplayP1(){
             But I am also fragile
             <br/>
             <br/>
-            But I am also a woman.
+            But I am also a woman
             <br/>
             <br/>
             But I also love building
@@ -71,6 +71,7 @@ function DisplayP1(){
             <br/>
             <br/>
             But I am also me.
+            <br/>
             <br/>
             </span></p>
             </div>
