@@ -16,6 +16,7 @@ function DisplayP1(){
             {/* <img src={img1}/>
             <img src={img2}/> */}
             <p id="p1_1"><span>
+            <br/>
             I am a daughter.
             <br/>
             <br/>
